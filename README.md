@@ -1,5 +1,5 @@
 # simple-scan
-Basic Nmap alternative! This is a personal project to create a fast Python based port scanner. This will scan the most common TCP and UDP ports. 
+Basic Nmap alternative! This is a personal project to create a Python based port scanner. This will scan the most common TCP and UDP ports. In practice, it is incredibly slow. Further improvements can be done by multithreading or porting it to a fast language. 
 
 ## Usage
 ```
